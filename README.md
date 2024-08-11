@@ -1,0 +1,2 @@
+# AliSoleimani2001--Covid-19-detection-using-computed-tomography-CT-scans-and-AI
+In this project, we have diagnosed the disease of covid-19 through machine learning algorithms and neural network using medical CT scan images. The main goal of this research is to develop an efficient and accurate model for disease diagnosis using convolutional neural networks (CNN) and selecting optimal features using genetic algorithm.
